@@ -32,8 +32,11 @@ Media Queries (Responsive Design)
 
 📂 Project Structure
 CDHLP-StudySync/
+
 ├── index.html
+
 ├── style.css
+
 └── (assets like images if any)
 
 📸 Screenshots
