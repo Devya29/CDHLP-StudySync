@@ -48,7 +48,9 @@ CDHLP-StudySync/
 
 📬 Connect
 Feel free to check out my other projects or connect with me on LinkedIn!
+
 #Will add more projects soon on my gihub!#
+
 www.linkedin.com/in/devya-saigal-9686aa278
 
 
