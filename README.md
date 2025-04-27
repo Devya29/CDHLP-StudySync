@@ -27,7 +27,8 @@ Flexbox
 Media Queries (Responsive Design)
 
 🌐 Live Demo
-#YET to be added#
+
+(https://devya29.github.io/CDHLP-StudySync/)
 
 📂 Project Structure
 CDHLP-StudySync/
