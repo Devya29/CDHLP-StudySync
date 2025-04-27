@@ -37,7 +37,7 @@ CDHLP-StudySync/
 
 ├── style.css
 
-└── (assets like images if any)
+└── (assets - images )
 
 📸 Screenshots
 
