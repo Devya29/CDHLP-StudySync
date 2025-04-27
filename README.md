@@ -12,7 +12,12 @@ Organized CSS with reusable classes.
 
 Smooth navigation bar and structured sections.
 
+
+
+
+
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
